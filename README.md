@@ -8,4 +8,4 @@ This was a personal project used to learn more about game development and practi
 
 All of the graphics (not including the twitter bird) were made by me. Feel free to use them if you would like. 
 
-![](SCREEN_SHOTS_DEMO/TappyBird_ScreenShots.pdf)
+
